@@ -20,6 +20,3 @@ This project demonstrates API handling, error management, and basic data process
 - Python
 - requests library
 
----
-
-## 📂 Project Structure
